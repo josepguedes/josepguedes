@@ -8,7 +8,7 @@
 
 ### 🏢 Currently
 
-> **Software Engineer Intern · Celfocus**
+> **Software Engineer · Celfocus**
 > AI-driven solutions · Workflow optimization · Testing
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489)
