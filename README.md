@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%3E+whoami+%E2%80%BA+José+Guedes+·+Software+Developer;%3E+status+%E2%80%BA+Software+Developer+%40+Celfocus+·+AI-driven+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%3E+whoami+%E2%80%BA+José+Guedes+·+Software+Engineer;%3E+status+%E2%80%BA+Software+Engineer+%40+Celfocus+·+AI-driven+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 🏢 Currently
 
-> **Software Developer · Celfocus**  
+> **Software Engineer · Celfocus**  
 > AI-driven solutions · Workflow optimization · Front-End · Back-End · Testing
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489)
@@ -22,7 +22,7 @@
 | | |
 |:--|:--|
 | 🖥️ **Front-End** | JavaScript · Vue · React · responsive interfaces |
-| ⚙️ **Back-End** | APIs · Node.js · architecture |
+| ⚙️ **Back-End** | APIs · Node.js · software architecture |
 | 🧠 **AI & ML** | real-world applications |
 | 🛡️ **Cybersecurity** | web security · data protection |
 | 🔌 **APIs** | Express · Sequelize · REST |
